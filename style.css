@@ -33,10 +33,8 @@ header .logo a {
     font-size: 30px;
     color: white;
     padding: 15px 30px;
-}
-
-header .logo a span {
-    color: orange;
+    font-family: 'Roboto', sans-serif;
+    opacity: 0.85;
 }
 
 header nav ul {
